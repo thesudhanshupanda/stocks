@@ -1,0 +1,1 @@
+Stock Returns Calculator is an app created using Vanilla JS, which shows how much profit or loss users are having on their stocks.
